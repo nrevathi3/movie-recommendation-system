@@ -26,7 +26,7 @@ input[type="text"] {
 
 button {
     padding: 10px 20px;
-    background-color: #ff4b2b;
+    background-color: #b71919;
     border: none;
     border-radius: 5px;
     color: white;
@@ -35,7 +35,7 @@ button {
 }
 
 button:hover {
-    background-color: #ff416c;
+    background-color: #1fab34;
 }
 
 ul {
